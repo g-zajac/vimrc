@@ -1,4 +1,8 @@
 # vimrc
 My personal Vim configuration
-test
+
+Don't put any lines in your vimrc that you don't understand.
+Tutorial links:
+https://dougblack.io/words/a-good-vimrc.html
+
 
