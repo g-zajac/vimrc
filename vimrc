@@ -7,7 +7,7 @@
 "
 "
 " Look
-:colorscheme murphy 
+:colorscheme badwolf 
 "
 " Features {{{1
 "
