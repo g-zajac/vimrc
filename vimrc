@@ -4,11 +4,10 @@
 " Description: A minimal example of vimrc 
 "             
 "------------------------------------------------------------
-"
-"
 " Look
 :colorscheme badwolf 
-"
+"             
+"------------------------------------------------------------
 " Features {{{1
 "
 " These options and commands enable some very useful features in Vim, that
@@ -121,7 +120,8 @@ set cmdheight=2
  
 " Display line numbers on the left
 set number
- 
+set showcmd "show command in bottom bar
+
 " Quickly time out on keycodes, but never time out on mappings
 set notimeout ttimeout ttimeoutlen=200
  
